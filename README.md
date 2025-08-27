@@ -16,8 +16,9 @@ Comprehensive Evaluation: Multiple metrics and visualization tools
 Production-Ready: Includes monitoring, explainability, and deployment setup
 
 📊 Detected Money Laundering Patterns
-Pattern	Description	Example
-Circular |	Money moves through intermediaries and returns to origin|	A → B → C → A
-Structuring	| Multiple transactions below reporting thresholds |	10x $9,500 transactions
-Layering |	Complex chains through multiple accounts |	A → B → C → D → E
-Rapid-Fire |	Many small transactions in quick succession |	15x $500 transactions in 1 hour
+|Pattern|	Description	|Example|
+|-------|-------------|-------|
+|Circular |	Money moves through intermediaries and returns to origin|	A → B → C → A|
+|Structuring| Multiple transactions below reporting thresholds |	10x $9,500 transactions|
+|Layering |	Complex chains through multiple accounts |	A → B → C → D → E|
+|Rapid-Fire |	Many small transactions in quick succession |	15x $500 transactions in 1 hour|
